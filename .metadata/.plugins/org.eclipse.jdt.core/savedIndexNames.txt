@@ -14,7 +14,6 @@ INDEX VERSION 1.126+C:\Users\Daniel\Documents\Repos\RMI-Pinnwand-App\.metadata\.
 3604769962.index
 1337478678.index
 605290374.index
-600252768.index
 355369697.index
 3954291735.index
 1045485630.index
